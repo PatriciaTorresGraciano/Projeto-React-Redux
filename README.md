@@ -1,5 +1,5 @@
 <h1 align="center"> 
- Projeto-React-Redux
+ Projeto React-Redux
 </h1>
 
 <h3> Tecnologias 🚀 </h3>
